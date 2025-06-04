@@ -14,7 +14,11 @@
 - Clean and modern design
 
 ## 🚀 Live Demo
-[Live on GitHub Pages](https://yourusername.github.io/event-finder)
+[Live on GitHub Pages](https://abdullahdurrani4268.github.io/event-finder/)
 
 ## ▶️ How to Run
 1. Clone this repo:
+git clone https://abdullahdurrani4268.github.io/event-finder/
+cd event-finder
+
+2. Open `index.html` in your browser.
