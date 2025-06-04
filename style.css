@@ -1,0 +1,13 @@
+.hero {
+  background-image: url('https://source.unsplash.com/1600x400/?events,concert');
+  background-size: cover;
+  background-position: center;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}

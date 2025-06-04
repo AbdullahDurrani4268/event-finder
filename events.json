@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Tech Conference 2025",
+    "date": "2025-06-20",
+    "time": "10:00 AM",
+    "location": "Expo Center, Lahore",
+    "description": "A gathering of tech enthusiasts and professionals to explore the latest innovations."
+  },
+  {
+    "name": "Art & Culture Fest",
+    "date": "2025-06-25",
+    "time": "6:00 PM",
+    "location": "Alhamra Arts Council",
+    "description": "Celebrate local art, music, and tradition with performers and artists from across the country."
+  },
+  {
+    "name": "Startup Meetup",
+    "date": "2025-06-18",
+    "time": "3:00 PM",
+    "location": "NEST I/O, Karachi",
+    "description": "Network with fellow entrepreneurs, startups, and investors under one roof."
+  },
+  {
+    "name": "AI & ML Workshop",
+    "date": "2025-06-22",
+    "time": "11:00 AM",
+    "location": "FAST NUCES, Islamabad",
+    "description": "Hands-on workshop covering real-world applications of AI and machine learning."
+  },
+  {
+    "name": "Book Reading Marathon",
+    "date": "2025-06-30",
+    "time": "2:00 PM",
+    "location": "British Council Library",
+    "description": "Join readers and authors for an all-day celebration of books and storytelling."
+  }
+]
